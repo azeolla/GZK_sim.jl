@@ -6,7 +6,7 @@ using Random
 using ThreadsX
 
 include("./pions.jl")
-include(".protons.jl")
+include("./protons.jl")
 
 using .PionFunctions
 using .ProtonFunctions
