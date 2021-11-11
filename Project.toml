@@ -1,0 +1,4 @@
+name = "GZK_sim"
+uuid = "e5ccb876-65d2-4160-929c-97019c9836d7"
+authors = ["azeolla <azeolla@psu.edu>"]
+version = "0.1.0"
